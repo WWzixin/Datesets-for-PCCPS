@@ -1,0 +1,4 @@
+CN01 filter=lfs diff=lfs merge=lfs -text
+CN10 filter=lfs diff=lfs merge=lfs -text
+CN20 filter=lfs diff=lfs merge=lfs -text
+Syn[[:space:]]Database filter=lfs diff=lfs merge=lfs -text
